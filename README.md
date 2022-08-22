@@ -18,5 +18,5 @@ Note: if you add other fractions the tests are likely to break, since most depen
 Usage mode:
 
 let formatter = FractionsFormatter()
-print(formatter.string(for: 0.5))
 
+print(formatter.string(for: 0.5))
