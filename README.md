@@ -1,5 +1,5 @@
 # FractionsFormatter
-[SPM compatible](https://img.shields.io/badge/SPM-compatible-blue)
+![SPM compatible](https://img.shields.io/badge/SPM-compatible-blue)
 
 A package to display measures using the imperial systems in feet, inches and fractions of an inch.
 
